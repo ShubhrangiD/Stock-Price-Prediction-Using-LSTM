@@ -1,6 +1,6 @@
 # Stock Price Prediction Using LSTM
 
-This project focuses on predicting Google (GOOG) stock prices using historical data from Yahoo Finance. We utilize Long Short-Term Memory (LSTM) networks to forecast future stock prices and visualize the results using Streamlit.
+This project focuses on predicting stock prices using historical data from Yahoo Finance. We utilize Long Short-Term Memory (LSTM) networks to forecast future stock prices and visualize the results using Streamlit.
 
 ## Table of Contents
 
